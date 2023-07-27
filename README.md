@@ -1,8 +1,8 @@
 # So_long
-#### ***THIS PROJECT IS AVAILABLE ONLY FOR MAC***
+
+<h4> ***THIS PROJECT IS AVAILABLE ONLY FOR MAC*** </h4>
 So_long is the first graphical project of the 42 common core. The goal was to reproduce a small 2d arcade game with all the basic functionalities (window creation, sprite movement, collisions, ...).
 Minilibx was used to write the project. </br> </br>
-
 
 <p align="center">
   <a href="https://42roma.it/">
