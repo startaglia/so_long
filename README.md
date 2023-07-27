@@ -1,6 +1,15 @@
 # So_long
-so_long is the first graphical project of the 42 common core. The goal was to reproduce a small 2d arcade game with all the basic functionalities (window creation, sprite movement, collisions, ...).
-Minilibx was used to write the project
+#### ***THIS PROJECT IS AVAILABLE ONLY FOR MAC***
+So_long is the first graphical project of the 42 common core. The goal was to reproduce a small 2d arcade game with all the basic functionalities (window creation, sprite movement, collisions, ...).
+Minilibx was used to write the project. </br> </br>
+
+
+<p align="center">
+  <a href="https://42roma.it/">
+    <img src="https://github.com/startaglia/startaglia/blob/main/.media/so_long_demo_cut.gif" width="600" height="450">
+  </a>
+</p>
+
 
 ## Game's rules:
   
@@ -57,7 +66,7 @@ Minilibx was used to write the project
 ## Technologies Used:
 
 - **Programming Language**: C
-- **Operating System**: Linux
+- **Operating System**: Mac
 - **Compiler**: GCC (GNU Compiler Collection)
 - **Build System**: GNU Make
 - **C Standard Library**
