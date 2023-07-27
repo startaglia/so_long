@@ -16,19 +16,35 @@ Minilibx was used to write the project
 
 1- Clone the repo:
 
-    git clone https://github.com/startaglia/so_long.git so_long
+	git clone https://github.com/startaglia/so_long.git so_long
 
 2- Enter in so_long dir then enter in minilibx dir and compile the lib with `make re` command
-	
-     cd so_long/minilibx_2 && make re
+
+	cd so_long/minilibx_2 && make
+
+3- Now you return back and compile printf lib
+
+	cd ../utils/ft_printf && make re
 
 3- Return back on so_long dir and compile with `make re` command
 
-    cd .. && make re
+    cd ../../ && make re
     
 4- Now you could launch the game! Try it with different maps (you can choose between map_0.ber, map_1.ber, map_2.ber, map_3.ber map_4.ber) 
 
     ./so_long assets/maps/map_0.ber
+
+## Controls
+
+| Command | Description                          |
+|---------|--------------------------------------|
+| W       | Move the player upwards              |
+| A       | Move the player to the left          |
+| S       | Move the player downwards            |
+| D       | Move the player to the right         |
+| ESC     | Exit the game and close the window   |
+
+
  
 ### Makefile Available Targets:
 
@@ -56,9 +72,3 @@ Minilibx was used to write the project
   - Email: [startaglia89@gmail.com](mailto:startaglia89@gmail.com)
   - GitHub: [startaglia](https://github.com/startaglia)
   - LinkedIn: [Simone Tartaglia](https://www.linkedin.com/in/simone-tartaglia-134723248/)
-
-- **Simone Castagnoli**
-  - GitHub: [IamG-Root](https://github.com/IamG-Root)
-
-- **Davide Carassiti**
-  - GitHub: [DarkB0shy](https://github.com/DarkB0shy)
